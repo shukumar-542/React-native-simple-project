@@ -21,7 +21,7 @@ export const MEALS = [
     'Spaghetti with Tomato Sauce',
     'affordable',
     'simple',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Spaghetti_Bolognese_mit_Parmesan_-_rezepte_frontend.jpg/800px-Spaghetti_Bolognese_mit_Parmesan_-_rezepte_frontend.jpg',
+    'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     20,
     [
       '4 Tomatoes',
@@ -52,7 +52,7 @@ export const MEALS = [
     'Toast Hawaii',
     'affordable',
     'simple',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Toast_Hawaii.jpg/800px-Toast_Hawaii.jpg',
+    'https://images.pexels.com/photos/2233729/pexels-photo-2233729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     10,
     [
       '1 Slice White Bread',
@@ -77,7 +77,7 @@ export const MEALS = [
     'Classic Hamburger',
     'fairly-priced',
     'simple',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Hamburger_%28stack%29.jpg/800px-Hamburger_%28stack%29.jpg',
+    'https://images.pexels.com/photos/1051399/pexels-photo-1051399.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     45,
     [
       '300g Ground Beef',
@@ -104,7 +104,7 @@ export const MEALS = [
     'Wiener Schnitzel',
     'luxurious',
     'challenging',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Wiener_Schnitzel_Brez_06.jpg/800px-Wiener_Schnitzel_Brez_06.jpg',
+    'https://images.pexels.com/photos/674574/pexels-photo-674574.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     60,
     [
       '8 Veal Cutlets',
@@ -133,7 +133,7 @@ export const MEALS = [
     'Salad with Smoked Salmon',
     'luxurious',
     'simple',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Salad_with_smoked_salmon_and_avocado.jpg/800px-Salad_with_smoked_salmon_and_avocado.jpg',
+    'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     15,
     [
       'Arugula',
@@ -165,7 +165,7 @@ export const MEALS = [
     'Delicious Orange Mousse',
     'affordable',
     'challenging',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Orange_Mousse.jpg/800px-Orange_Mousse.jpg',
+    'https://images.pexels.com/photos/2474661/pexels-photo-2474661.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     240,
     [
       '4 Sheets of Gelatine',
@@ -195,7 +195,7 @@ export const MEALS = [
     'Pancakes',
     'affordable',
     'simple',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pancakes_with_berries.jpg/800px-Pancakes_with_berries.jpg',
+    'https://images.pexels.com/photos/1640777/pexels-photo-1640777.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     20,
     [
       '1 1/2 Cups all-purpose Flour',
@@ -223,7 +223,7 @@ export const MEALS = [
     'Creamy Indian Chicken Curry',
     'fairly-priced',
     'challenging',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Chicken_Curry.jpg/800px-Chicken_Curry.jpg',
+    'https://images.pexels.com/photos/2679501/pexels-photo-2679501.jpeg?auto=compress&cs=tinysrgb&w=600',
     35,
     [
       '4 Chicken Breasts',
@@ -252,7 +252,7 @@ export const MEALS = [
     'Chocolate Souffle',
     'affordable',
     'hard',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Chocolate_Souffl%C3%A9.jpg/800px-Chocolate_Souffl%C3%A9.jpg',
+    'https://images.pexels.com/photos/70497/pexels-photo-70497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     45,
     [
       '1 Teaspoon melted Butter',
@@ -288,7 +288,7 @@ export const MEALS = [
     'Asparagus Salad with Cherry Tomatoes',
     'luxurious',
     'simple',
-    'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Asparagus_Salad_with_Cherry_Tomatoes.jpg/800px-Asparagus_Salad_with_Cherry_Tomatoes.jpg',
+    'https://images.pexels.com/photos/376464/pexels-photo-376464.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1',
     30,
     [
       'White and Green Asparagus',
